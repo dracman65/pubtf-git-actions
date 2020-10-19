@@ -7,7 +7,7 @@
 
 ## The script creates and produces the following Azure Resources:
 
-    - Correct main.yml format for deployment from Git Actions (not folder path)
+    - Correct main.yml format for deployment from Git Actions (note folder path)
     - Resource Group
     - Simple Storage Account - Random Name
     - Output variables
