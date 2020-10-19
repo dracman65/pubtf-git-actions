@@ -1,5 +1,5 @@
-location = "EASTUS2"
-rgname   = "gitrepo-stgbld-1"
+location = "add-az-location"
+rgname   = "add-RG-Name"
 
 # client_id       = "clientid"
 # client_secret   = "clientsec"
